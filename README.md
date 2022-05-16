@@ -19,8 +19,9 @@ I'm software developer and technology lover.
 </br>
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
+[![React](https://img.shields.io/badge/Angular-dd1b16?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)]()
 [![Angular](https://img.shields.io/badge/Angular-dd1b16?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)]()
-[![Svelte](https://img.shields.io/badge/Svelte-F53518?style=for-the-badge&logo=svelte&logoColor=white&labelColor=101010)]()
+
 
 And more...
 
