@@ -4,8 +4,8 @@ I'm software developer and technology lover.
 ```js
 const Isai = {
   pronouns: "He" | "Him",
-  code: [Kotlin, Swift, Javascript, Typescript, CSS, Java],
-  tools: [SwiftUI, JetpackCompose, React, Angular, NodeJS, Styled-Components],
+  code: [Dart,Swift,Kotlin,Javascript, Typescript, Java],
+  tools: [Flutter,SwiftUI,JetpackCompose,React,NodeJS],
   challenge: "Learning SwfitUI"
 }
 ```
