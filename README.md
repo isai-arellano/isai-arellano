@@ -6,7 +6,7 @@ const Isai = {
   pronouns: "He" | "Him",
   code: [Dart,Swift,Kotlin,Javascript, Typescript, Java],
   tools: [Flutter,SwiftUI,JetpackCompose,React,NodeJS],
-  challenge: "Learning SwfitUI"
+  challenge: "Creating community"
 }
 ```
 
