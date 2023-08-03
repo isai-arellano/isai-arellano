@@ -1,12 +1,16 @@
 ## Hi there 👋 My name is Isaí
 I'm software developer and technology lover.
 
-```js
-const Isai = {
-  pronouns: "He" | "Him",
-  code: [Dart,Swift,Kotlin,Javascript, Typescript, Java],
-  tools: [Flutter,SwiftUI,JetpackCompose,React,NodeJS],
-  challenge: "Creating community"
+```dart
+void main() {
+  var isai = {
+    'pronouns': 'He' /*| 'Him'*/,
+    'code': ['Dart', 'Swift', 'Kotlin'],
+    'tools': ['Flutter', 'SwiftUI', 'JetpackCompose'],
+    'challenge': 'Creating community',
+  };
+
+  print(isai);
 }
 ```
 
