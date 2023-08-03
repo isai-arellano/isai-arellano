@@ -4,7 +4,6 @@ I'm software developer and technology lover.
 ```dart
 void main() {
   var isai = {
-    'pronouns': 'He' /*| 'Him'*/,
     'code': ['Dart', 'Swift', 'Kotlin'],
     'tools': ['Flutter', 'SwiftUI', 'JetpackCompose'],
     'challenge': 'Creating community',
